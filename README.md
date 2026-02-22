@@ -5,8 +5,8 @@
 
 ## About Me
 Interests in algorithms, quantitative problem-solving, and 
-building things that work fast and correctly. Currently developing my 
-ML, data science and probability skills alongside a strong C++, algorithms, python foundation.
+building things that work fast and correctly. Currently developing 
+ML, data science and probability skills on top of a strong C++, algorithmic and Python foundation.
 
 ## Skills
 **Proficient:** C++, Git, GitHub  
